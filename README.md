@@ -37,6 +37,8 @@ The code produces:
 - Fourier spectrum of pair correlations
 - local magnetization
 
+![Sample output](sample_output.png)
+
 ## Relevance
 This project demonstrates:
 - computational modeling
